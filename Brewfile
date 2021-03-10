@@ -30,6 +30,7 @@ brew "jq"
 brew "httpie"
 
 cask "google-chrome"
+cask 'microsoft-edge'
 cask "slack"
 
 cask "visual-studio-code"
