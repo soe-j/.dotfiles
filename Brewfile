@@ -5,6 +5,7 @@ tap "homebrew/cask-fonts"
 tap "heroku/brew"
 tap "homebrew/cask-drivers"
 tap "nodenv/nodenv"
+tap "golangci/tap"
 
 brew "libxml2"  # nokogiri uses it
 brew "git"
@@ -14,6 +15,7 @@ brew "rbenv-default-gems"
 brew "nodenv"
 brew "nodenv/nodenv/nodenv-default-packages"
 brew "goenv"
+brew "golangci/tap/golangci-lint"
 
 # plantuml
 brew "openjdk"
