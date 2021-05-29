@@ -38,7 +38,7 @@ brew bundle
 #### git settings
 ####
 git config --global core.excludesfile ~/.gitignore_global
-
+git config --global core.editor 'code --wait'
 
 ####
 #### directories
