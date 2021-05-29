@@ -55,7 +55,6 @@ cask "karabiner-elements"
 cask "clipy"
 cask "witch"
 cask "rectangle"
-cask "sharemouse"
 
 cask "licecap"
 cask "caffeine"
