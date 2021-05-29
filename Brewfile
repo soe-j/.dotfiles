@@ -1,7 +1,6 @@
 cask_args appdir: "/Applications"
 
 tap "homebrew/cask"
-tap "homebrew/cask-fonts"
 tap "heroku/brew"
 tap "homebrew/cask-drivers"
 tap "nodenv/nodenv"
@@ -65,5 +64,3 @@ cask "caffeine"
 cask "day-o"
 cask "michaelvillar-timer"
 cask "hiddenbar"
-
-cask "font-source-han-code-jp"
