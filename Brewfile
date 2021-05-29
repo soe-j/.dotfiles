@@ -24,6 +24,7 @@ brew "jq"
 brew "httpie"
 
 brew "awscli"
+brew "cocoapods"
 
 brew "heroku-node"
 brew "heroku"
