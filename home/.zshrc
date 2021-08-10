@@ -31,6 +31,7 @@ alias safari='open -a "safari.app"'
 ## Git
 alias gf='git fetch -p'
 alias gr='git reset'
+alias gri='git rebase -i'
 alias gc='git checkout'
 alias gm='git merge'
 alias gl='git log --oneline --graph --decorate'
