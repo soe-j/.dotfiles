@@ -111,6 +111,7 @@ defaults write com.apple.dock largesize -int 128
 killall Dock
 
 defaults write com.apple.screencapture location ~/Pictures/Screencapture
+defaults write com.apple.screencapture name ""
 defaults write com.apple.screencapture disable-shadow -boolean true
 defaults write com.apple.screencapture show-thumbnail -bool FALSE
 killall SystemUIServer
