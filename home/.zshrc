@@ -29,6 +29,7 @@ alias chrome='open -a "Google Chrome.app"'
 alias safari='open -a "safari.app"'
 
 ## Git
+alias g='gitup'
 alias gf='git fetch -p'
 alias gr='git reset'
 alias gri='git rebase -i'
