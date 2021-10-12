@@ -59,6 +59,7 @@ cask "clipy"
 cask "witch"
 cask "rectangle"
 
+cask "shottr"
 cask "licecap"
 cask "caffeine"
 cask "day-o"
