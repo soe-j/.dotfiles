@@ -42,6 +42,9 @@ alias git-branch-delete-merged='git branch --merged | egrep -v "(\*|$(git-branch
 alias git-reg='gf && git add . && git stash && git checkout $(git-branch-default) && git merge origin/$(git-branch-default) && git-branch-delete-merged && git stash pop'
 alias git-open-diff-file='code $(git diff `git show-branch --merge-base $(git-branch-default) HEAD` HEAD --name-only)'
 
+## JavaScript
+alias y='yarn'
+
 ## Ruby
 alias be='bundle exec'
 
