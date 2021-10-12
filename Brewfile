@@ -64,5 +64,6 @@ cask "licecap"
 cask "caffeine"
 cask "day-o"
 cask "michaelvillar-timer"
+cask "hiddenbar"
 
 cask "font-source-han-code-jp"
