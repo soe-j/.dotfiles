@@ -38,7 +38,6 @@ cask "figma"
 
 cask "visual-studio-code"
 cask "gitup"
-cask "jasper"
 
 cask "sequel-ace"
 cask "docker"
