@@ -9,6 +9,7 @@ tap "golangci/tap"
 
 brew "libxml2"  # nokogiri uses it
 brew "git"
+brew "gh"
 
 brew "rbenv"
 brew "rbenv-default-gems"
