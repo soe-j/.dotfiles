@@ -44,6 +44,9 @@ alias git-open-diff-file='code $(git diff `git show-branch --merge-base $(git-br
 
 ## JavaScript
 alias y='yarn'
+alias yd='yarn dev'
+alias yt='yarn test'
+alias yl='yarn lint'
 
 ## Ruby
 alias be='bundle exec'
