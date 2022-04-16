@@ -33,6 +33,12 @@ fi
 brew doctor
 brew bundle
 
+if [ $(which rustup) ]
+then
+  echo "rustup is already installed."
+else
+  curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+fi
 
 ####
 #### git settings
