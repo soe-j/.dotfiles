@@ -3,8 +3,6 @@ PROMPT='
 
 export WORDCHARS='*?_.[]~=&;!#$%^(){}<>'
 
-ssh-add -K
-
 eval "$(rbenv init -)"
 eval "$(nodenv init -)"
 eval "$(goenv init -)"
