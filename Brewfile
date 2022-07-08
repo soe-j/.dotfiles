@@ -62,4 +62,3 @@ cask "witch"
 cask "rectangle"
 
 cask "caffeine"
-cask "hiddenbar"
