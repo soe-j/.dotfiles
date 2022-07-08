@@ -53,6 +53,7 @@ cask "QLColorCode"
 cask "QLMarkdown"
 cask "quicklook-json"
 
+cask "via"
 cask "qmk-toolbox"
 cask "karabiner-elements"
 cask "clipy"
