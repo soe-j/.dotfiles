@@ -5,6 +5,7 @@ tap "heroku/brew"
 tap "homebrew/cask-drivers"
 tap "nodenv/nodenv"
 tap "golangci/tap"
+tap "dart-lang/dart"
 
 brew "libxml2"  # nokogiri uses it
 brew "git"
