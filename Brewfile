@@ -62,5 +62,4 @@ cask "witch"
 cask "rectangle"
 
 cask "caffeine"
-cask "michaelvillar-timer"
 cask "hiddenbar"
