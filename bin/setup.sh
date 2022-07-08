@@ -33,6 +33,13 @@ fi
 brew doctor
 brew bundle
 
+if [ $(which fvm) ]
+then
+  echo "fvm is already activated"
+else
+  dart pub global activate fvm
+fi
+
 if [ $(which rustup) ]
 then
   echo "rustup is already installed."
