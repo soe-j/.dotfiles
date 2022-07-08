@@ -53,4 +53,7 @@ alias yl='yarn lint'
 ## Ruby
 alias be='bundle exec'
 
+## Flutter
+alias f='fvm flutter'
+
 source ~/Documents/dotfiles-secrets/.zshrc-secrets

@@ -17,6 +17,10 @@ brew "nodenv/nodenv/nodenv-default-packages"
 brew "goenv"
 brew "golangci/tap/golangci-lint"
 
+cask "android-studio"
+brew "cocoapods"
+brew "dart"
+
 # plantuml
 brew "openjdk"
 brew "graphviz"
@@ -26,7 +30,6 @@ brew "jq"
 brew "httpie"
 
 brew "awscli"
-brew "cocoapods"
 
 brew "heroku-node"
 brew "heroku"
@@ -41,8 +44,6 @@ cask "gitup"
 
 cask "sequel-ace"
 cask "docker"
-cask "flutter"
-cask "android-studio"
 
 cask "google-japanese-ime"
 cask "zoom"
