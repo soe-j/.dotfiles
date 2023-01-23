@@ -37,6 +37,7 @@ cask "gitup"
 
 cask "sequel-ace"
 cask "rancher"
+cask "amazon-workspaces"
 
 cask "google-japanese-ime"
 cask "zoom"
