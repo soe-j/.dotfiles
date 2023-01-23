@@ -29,7 +29,6 @@ brew "tree"
 brew "jq"
 brew "httpie"
 
-brew "awscli"
 
 brew "heroku-node"
 brew "heroku"
