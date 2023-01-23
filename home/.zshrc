@@ -5,10 +5,8 @@ export WORDCHARS='*?_.[]~=&;!#$%^(){}<>'
 
 eval "$(rbenv init -)"
 eval "$(nodenv init -)"
-eval "$(goenv init -)"
 
 export PATH="/usr/local/opt/openjdk/bin:$PATH"
-export PATH=$GOPATH/.dotfiles/bin:$PATH
 export PATH=$HOME/.pub-cache/bin:$PATH
 export PATH=$HOME/.dotfiles/bin:$PATH
 
