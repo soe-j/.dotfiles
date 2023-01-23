@@ -30,7 +30,6 @@ brew "jq"
 brew "httpie"
 
 
-brew "circleci"
 
 cask "google-chrome"
 cask "slack"
