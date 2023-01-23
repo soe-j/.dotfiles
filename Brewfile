@@ -44,7 +44,7 @@ cask "visual-studio-code"
 cask "gitup"
 
 cask "sequel-ace"
-cask "docker"
+cask "rancher"
 
 cask "google-japanese-ime"
 cask "zoom"
