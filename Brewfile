@@ -30,8 +30,6 @@ brew "jq"
 brew "httpie"
 
 
-brew "heroku-node"
-brew "heroku"
 brew "circleci"
 
 cask "google-chrome"
