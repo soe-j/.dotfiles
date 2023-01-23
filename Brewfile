@@ -7,7 +7,7 @@ tap "nodenv/nodenv"
 tap "golangci/tap"
 tap "dart-lang/dart"
 
-brew "libxml2"  # nokogiri uses it
+# brew "libxml2"  # nokogiri uses it
 brew "git"
 brew "gh"
 
@@ -22,8 +22,8 @@ brew "cocoapods"
 brew "dart"
 
 # plantuml
-brew "openjdk"
-brew "graphviz"
+# brew "openjdk"
+# brew "graphviz"
 
 brew "tree"
 brew "jq"
