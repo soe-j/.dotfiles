@@ -29,8 +29,6 @@ brew "tree"
 brew "jq"
 brew "httpie"
 
-
-
 cask "google-chrome"
 cask "slack"
 
