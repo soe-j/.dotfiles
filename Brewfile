@@ -33,7 +33,6 @@ brew "httpie"
 
 cask "google-chrome"
 cask "slack"
-cask "figma"
 
 cask "visual-studio-code"
 cask "gitup"
