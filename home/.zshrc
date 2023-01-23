@@ -1,5 +1,6 @@
 PROMPT='
-%K{blue}%*%k %F{black}%K{white}%.%k%f %% '
+%K{blue}%*%k %d
+%F{black}%K{white}%.%k%f %% '
 
 export WORDCHARS='*?_.[]~=&;!#$%^(){}<>'
 
