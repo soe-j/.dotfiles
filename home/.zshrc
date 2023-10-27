@@ -53,6 +53,7 @@ alias y='yarn'
 alias yd='yarn dev'
 alias yt='yarn test'
 alias yl='yarn lint'
+alias ylf='yarn lintfix'
 
 ## Ruby
 alias be='bundle exec'
