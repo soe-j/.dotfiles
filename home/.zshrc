@@ -60,7 +60,7 @@ alias be='bundle exec'
 ## Flutter
 alias f='fvm flutter'
 
-source ~/Documents/dotfiles-secrets/.zshrc-secrets
+source ~/.zshrc-secrets
 
 ### MANAGED BY RANCHER DESKTOP START (DO NOT EDIT)
 export PATH="/Users/yusuke.soeda/.rd/bin:$PATH"
