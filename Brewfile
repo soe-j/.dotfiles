@@ -52,5 +52,5 @@ cask "karabiner-elements"
 cask "clipy"
 cask "witch"
 cask "rectangle"
-
+cask "itsycal"
 cask "caffeine"
